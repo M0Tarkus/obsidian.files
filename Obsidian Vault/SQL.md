@@ -1,3 +1,4 @@
-I Shall be finishing up the SQL bolt exercise and then i shall move on to other exercise
 
+
+Takeaways of this video [8.5 HOURS Complete SQL End to End](https://www.youtube.com/watch?v=wI4HWGlI6gM)
 

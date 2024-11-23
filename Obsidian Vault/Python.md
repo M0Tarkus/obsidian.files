@@ -43,3 +43,13 @@ I want to make sure to be using the 100 days python course i downloaded before
 	  ``  print("Entry is 50% off!")  
 	`else:  
 	  ``  print("Entry is full price")
+
+- Lists
+	`fruits = [x, y, z]`
+	`print(fruits[0]` # x
+	2d lists are nested lists that are used for data in 2 dimensions like a chess board such as `grid = [[0,1,0], [0,0,1]]
+	`print(grid[0][1])` using the first bracket gives the first element, 2nd bracket gives specific item in the first element.  
+	`fruits = []` sometimes we create an empty list and then append the list with adding items with `fruits.append()` & to remove items `fruits.remove()` but be sure as it only removes the first occurrence of a recurring item. We can use `furits.pop()` which removes the last item of the list or a specific indexed item. 
+	 To know the size of a list we use `print(len(fruits))`
+
+- 
